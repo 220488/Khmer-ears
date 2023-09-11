@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-color: #1d3746;
+  min-height: 100vh;
 }
 
 .App-logo {
@@ -35,4 +37,20 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.text-box-row {
+  display: flex;
+  justify-content: space-between;
+  margin: auto 5vw;
+}
+
+.transfer-language-row {
+  height: 59px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px 5vw;
+  font-size: 24px;
+  color: #fff;
 }
