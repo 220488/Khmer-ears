@@ -1,7 +1,7 @@
-# Khmer-ear
+# Khmer-ears
 🇰🇭 Khmer pronunciation translation 🌍
 
-Khmer is not easy to read, but now you have Khmer Ear!
+Khmer is not easy to read, but now you have Khmer Ears!
 
 😼 អរគុណ(aw-kohn, meaning *THANK YOU*) for using it when you go travelling to Cambodia 🫶
 
