@@ -1,5 +1,11 @@
 .text-box-container {
   width: 41.5vw;
-  height: 23vw;
+  max-height: 23vw;
   background-color: #b8ddff;
+  border-radius: 4px;
+}
+
+.output-content-box {
+  line-height: 24px;
+  padding: 20px;
 }
